@@ -26,7 +26,7 @@ A lithophane is a 3D-printed panel of varying thickness — thin areas let light
 | Setting | Value |
 |---|---|
 | Printer | Bambu Lab A1 |
-| Material | PLA (green) |
+| Material | PLA (white) |
 | Key parameter | Wall thickness controls light transmission |
 
 ---
